@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "MovieClone",
+    "name": "movie_app_stream",
+    "displayName": "Movie App Stream",
     "slug": "movie-app",
     "version": "1.0.0",
     "orientation": "portrait",
